@@ -8,9 +8,9 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/LazyDeveloperr/MdiskSearchBOTTC",
-    "website": "https://telegram.dog/LazyDeveloperr",
-    "success_url": "https://t.me/LazyDeveloperr",
+    "repository": "https://github.com/Harmiah77/MdiskSearchBOTTC",
+    "website": "https://telegram.dog/h_k_Bots",
+    "success_url": "https://t.me/h_k_Bots",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
